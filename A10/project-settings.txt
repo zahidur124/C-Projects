@@ -1,0 +1,1 @@
+#hasheq((q1-runner . "pq_tester.c") (q2-runner . "merge_tester.c") (q3-runner . "seq_tester.c"))
