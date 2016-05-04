@@ -1,1 +1,0 @@
-#hasheq((q1-runner . "test-dyn-arrays.c") (q2-runner . "test-array-resize.c") (q3a-runner . "test-pantry.c") (q3b-runner . "test-pantry.c") (q4-runner . "test-set.c") (q5-runner . "line-sort.c"))
